@@ -8,7 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-json-view": "^1.21.3",
+    "react-loader-spinner": "^5.1.5",
     "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.2",
+    "recharts": "^2.1.12",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
